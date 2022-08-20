@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jerycho1010
 - 👀 I’m interested in learning to programm
 - 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything that can teach me something
 
 <!---
 jerycho1010/jerycho1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
